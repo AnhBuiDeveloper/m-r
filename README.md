@@ -1,4 +1,3 @@
-# m-r
-Simple CQRS example
+# Simple CQRS example
 
 An example of CQRS architecture based on gregoryyoung/m-r
